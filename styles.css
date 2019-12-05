@@ -1,0 +1,86 @@
+html {
+  background-color: #edeef0;
+  color: #2f1300;
+  font-face: Helvetica;
+  font-size: 12pt;
+}
+h2 {
+  font-size: 120%;
+  margin-top: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.plot-wrapper {
+  border: 1px solid #4c4c4c;
+  padding: 10px;
+}
+.plot {
+  height: 550px;
+}
+p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+h3 {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+}
+
+}
+.code {
+  font-family: monospace;
+}
+.logo .xmr {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #ff6600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.logo .lab {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #4c4c4c;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+#footer {
+  margin-top: 30px;
+  border-top: 1px solid #4c4c4c;
+}
+.content {
+  max-width: 700px;
+  margin: 30px auto;
+}
+.content img {
+  display: block;
+  margin: 10px auto;
+}
+.code {
+  font-family: monospace;
+  color: #0062a3;
+}
+.code.block {
+  display: block;
+  background-color: #E6E6FA;
+  padding: 10px;
+  border-left: 3px solid #ff6600;
+}
+.big {
+  font-size: 14pt;
+}
+.small {
+  font-size: 10pt;
+}
+.tiny {
+  font-size: 8pt;
+}
+
+
